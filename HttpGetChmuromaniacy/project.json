@@ -1,0 +1,9 @@
+{
+  "frameworks": {
+    "net46":{
+      "dependencies": {
+        "MySql.Data": "7.0.7-m61"
+      }
+    }
+   }
+}
